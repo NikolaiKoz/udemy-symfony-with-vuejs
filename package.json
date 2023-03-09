@@ -33,5 +33,8 @@
   "bugs": {
     "url": "https://github.com/NikolaiKoz/udemy-symfony-with-vuejs/issues"
   },
-  "homepage": "https://github.com/NikolaiKoz/udemy-symfony-with-vuejs#readme"
+  "homepage": "https://github.com/NikolaiKoz/udemy-symfony-with-vuejs#readme",
+  "dependencies": {
+    "vue-router": "^3.5.2"
+  }
 }
